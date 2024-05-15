@@ -5,6 +5,12 @@ export default function two() {
   return (
     <View>
       <Text>two</Text>
+      <Text>two</Text>
+      <Text>two</Text>
+      <Text>two</Text>
+      <Text>two</Text>
+      <Text>two</Text>
+      <Text>two</Text>
     </View>
   );
 }
